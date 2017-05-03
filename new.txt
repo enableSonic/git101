@@ -1,3 +1,8 @@
 XXXXXXXXXX
 XXXXXXXX new file XXXX
 XXXXXXXXXX
+
+new 1
+new 3
+New file test
+new 4
