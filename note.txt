@@ -1,0 +1,123 @@
+    1  dir
+    2  d:
+    3  cd D:
+    4  dir
+    5  ls
+    6  ls -rlt
+    7  cd MyWork
+    8  cd GIT_LAP/
+    9  ls
+   10  git clone -b DEV https://kscm.kasikornbank.com:8443/492/KB_COMMON.git
+   11  ls
+   12  cd KB_ESSP/
+   13  git status
+   14  git status
+   15  d:
+   16  cd d:
+   17  ls
+   18  cd MyWork
+   19  cd GIT_LAP/
+   20  dir
+   21  cd S2-ESSP/
+   22  git status
+   23  cd ..
+   24  ls
+   25  cd KB_ESSP/
+   26  git branch
+   27  git tag
+   28  cd .
+   29  cd ..
+   30  cd ..
+   31  cd ..
+   32  ls
+   33  mkdir git101
+   34  cd git101
+   35  clear
+   36  git status
+   37  git init
+   38  git stutus
+   39  git status
+   40  ls -l
+   41  ls -la
+   42  ls -lrt
+   43  ls -ls
+   44  ls -la
+   45  tree .git
+   46  cd .git
+   47  tree git
+   48  tree
+   49  gi
+   50  git
+   51  cd ..
+   52  git status
+   53  rm -rf .git
+   54  git status
+   55  ls
+   56  git init
+   57  history
+   58  history >> note.text
+    1  dir
+    2  d:
+    3  cd D:
+    4  dir
+    5  ls
+    6  ls -rlt
+    7  cd MyWork
+    8  cd GIT_LAP/
+    9  ls
+   10  git clone -b DEV https://kscm.kasikornbank.com:8443/492/KB_COMMON.git
+   11  ls
+   12  cd KB_ESSP/
+   13  git status
+   14  git status
+   15  d:
+   16  cd d:
+   17  ls
+   18  cd MyWork
+   19  cd GIT_LAP/
+   20  dir
+   21  cd S2-ESSP/
+   22  git status
+   23  cd ..
+   24  ls
+   25  cd KB_ESSP/
+   26  git branch
+   27  git tag
+   28  cd .
+   29  cd ..
+   30  cd ..
+   31  cd ..
+   32  ls
+   33  mkdir git101
+   34  cd git101
+   35  clear
+   36  git status
+   37  git init
+   38  git stutus
+   39  git status
+   40  ls -l
+   41  ls -la
+   42  ls -lrt
+   43  ls -ls
+   44  ls -la
+   45  tree .git
+   46  cd .git
+   47  tree git
+   48  tree
+   49  gi
+   50  git
+   51  cd ..
+   52  git status
+   53  rm -rf .git
+   54  git status
+   55  ls
+   56  git init
+   57  history
+   58  history >> note.text
+   59  ls
+   60  ls
+   61  ls
+   62  history >> note.text
+   63  ls
+   64  git status
+   65  history >> note.txt
